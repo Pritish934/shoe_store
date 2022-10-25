@@ -108,6 +108,12 @@
   margin-left: 0.5rem;
 }
 
+
+.bannerimg{
+  left: 800px;
+  margin-left: 700px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
@@ -127,3 +133,4 @@
     filter: invert(1);
   }
 }
+
