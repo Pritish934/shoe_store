@@ -18,7 +18,7 @@ const Post = () => {
                 <p className="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
                 <div className="flex mt-6 items-center pb-5 border-b-2 border-yellow-100 mb-5">
                   <div className="flex">
-                    <span className="mr-3">Colo</span>
+                    <span className="mr-3">Color</span>
                     <button className="border-2 border-yellow-300 rounded-full w-6 h-6 focus:outline-none"></button>
                     <button className="border-2 border-yellow-300 ml-1 bg-yellow-700 rounded-full w-6 h-6 focus:outline-none"></button>
                     <button className="border-2 border-yellow-300 ml-1 bg-yellow-500 rounded-full w-6 h-6 focus:outline-none"></button>
