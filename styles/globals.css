@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 body{
-  background-color: #f7f7f7;
+  background: rgb(240,66,87);
+  background: radial-gradient(circle, rgba(240,66,87,1) 0%, rgba(67,80,127,1) 100%);
 }
